@@ -1,1 +1,0 @@
-# mpox-behavioral-2
