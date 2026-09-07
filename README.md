@@ -38,7 +38,7 @@ python3 launcher_array.py
 All the input parameters must be edited in the parameters.py file. The config_generator.py file is a supporting script used by the launcher to generate the simulations.
 
 ### Parameters definitions
-But few exceptions, all parameters are defined as lists. The code will explore all parameter combinations of the Cartesian product among all input lists. 
+But a few exceptions (concerning folder paths or job submission settings), input parameters are defined as lists. The code will explore all parameter combinations of the Cartesian product among all input lists. 
 
 ### Input files
 The folder DATA.zip must be unzipped to allow the code to read the input files.
