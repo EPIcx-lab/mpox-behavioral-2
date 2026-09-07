@@ -33,6 +33,7 @@ python launcher_array.py
 or 
 ```
 python3 launcher_array.py
+```
 
 All the input parameters must be edited in the parameters.py file. The config_generator.py file is a supporting script used by the launcher to generate the simulations.
 
